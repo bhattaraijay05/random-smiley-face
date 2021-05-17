@@ -1,6 +1,6 @@
 {
   "name": "random-smiley-face",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is just a random node package. which add smily faces before and after any text",
   "main": "index.js",
   "homepage": "https://github.com/bhattaraijay05/random-smiley-face",
